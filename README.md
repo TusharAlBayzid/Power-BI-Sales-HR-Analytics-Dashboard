@@ -53,6 +53,5 @@ An in-depth organizational dashboard built to monitor workforce demographics, em
 ## 📬 Let's Connect
 I am a passionate Software & Web Developer based in Sylhet, Bangladesh, continuously expanding my technical stack and aiming for global software engineering opportunities.
 
-* **LinkedIn:** [Insert Your LinkedIn URL]
-* **Portfolio:** [Insert Portfolio URL]
-* **Email:** [Insert Your Email]
+* **LinkedIn:** [[Insert Your LinkedIn URL]](https://www.linkedin.com/in/bayzid-mostak-data-analyst/)
+* **Email:** tusharshakib20@gmail.com
