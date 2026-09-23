@@ -55,6 +55,6 @@ An in-depth organizational dashboard built to monitor workforce demographics, em
 **Bayzid Mostak**<br>
 *Data Analyst & Visualization Expert*
 
-*   https://www.linkedin.com/in/bayzid-mostak-data-analyst/
-*   https://github.com/TusharAlBayzid
+*   [LinkedIn] https://www.linkedin.com/in/bayzid-mostak-data-analyst/
+*   [GitHub] https://github.com/TusharAlBayzid
 *   Note: Download the `.pbix` file and open it in Power BI Desktop to experience the fully interactive cross-filtering capabilities of this dashboard.
