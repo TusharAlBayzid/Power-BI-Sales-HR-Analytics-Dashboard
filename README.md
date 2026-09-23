@@ -50,8 +50,11 @@ An in-depth organizational dashboard built to monitor workforce demographics, em
 * **Data Cleansing:** Handled data formatting and hierarchy adjustments (e.g., extracting specific Quarter/Month trends from raw dates).
 * **Dashboard Design:** Applied clean aesthetics, avoiding clutter, and selecting the most appropriate charts for data distribution and spread.
 
-## 📬 Let's Connect
-I am a passionate Software & Web Developer based in Sylhet, Bangladesh, continuously expanding my technical stack and aiming for global software engineering opportunities.
+## 👨‍💻 Author
 
-* **LinkedIn:** [[Insert Your LinkedIn URL]](https://www.linkedin.com/in/bayzid-mostak-data-analyst/)
-* **Email:** tusharshakib20@gmail.com
+**Bayzid Mostak**<br>
+*Data Analyst & Visualization Expert*
+
+*   https://www.linkedin.com/in/bayzid-mostak-data-analyst/
+*   https://github.com/TusharAlBayzid
+*   Note: Download the `.pbix` file and open it in Power BI Desktop to experience the fully interactive cross-filtering capabilities of this dashboard.
